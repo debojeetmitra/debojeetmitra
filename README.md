@@ -23,11 +23,18 @@
 
 <br/>
 
+<!-- ANIMATED GITHUB TROPHIES (Dynamically fetched based on your account stats) -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=debojeetmitra&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Debojeet Mitra Trophies" />
+</a>
+
+<br/><br/>
+
 ---
 
 ### 💻 🧰 The Tech Arsenal
 
-<!-- PREMIUM GLASSMORPHIC SKILL ICONS -->
+<!-- PREMIUM GLASSMORPHIC SKILL ICONS - (Automatically formats to screen size) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,express,mongodb,git,github,figma,framer&perline=6" />
 </p>
@@ -36,7 +43,12 @@
 
 ### 📊 📈 Core Developer Metrics
 
-<!-- CLEAN DARK NEON THEME STATS ('tokyonight') -->
+<!-- LIVE FULLY ANIMATED ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debojeetmitra&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=ffffff&hide_border=true&custom_title=Animated%20Commit%20Activity" width="100%" alt="Activity Graph" />
+</p>
+
+<!-- LIVE UPDATING DARK NEON STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debojeetmitra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=A9B1D6&rank_icon=github" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debojeetmitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=A9B1D6" height="195" alt="Top Languages" />
