@@ -1,53 +1,57 @@
 <div align="center">
 
-<!-- Typing Animation Header -->
+<!-- SICK ANIMATED BACKDROP HEADER GIF -->
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Header" />
+
+<br/><br/>
+
+<!-- SCI-FI ANIMATED TYPING SVG -->
 <a href="https://github.com/debojeetmitra">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Debojeet+Mitra+👋;Frontend+%26+MERN+Dev+🚀;Crafting+Beautiful+UIs+✨;Always+Learning+New+Tech+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Debojeet+Mitra+👋;Frontend+Engineer+🛸;MERN+Stack+Sorcerer+�;Building+the+Future+of+Web+UI+✨" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-**Frontend Developer from Kanpur, India | Crafting Pixel-Perfect Web Experiences** 🚀
-
-<a href="https://debojeet-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br/><br/>
-
-### 🛠️ My Tech Stack
-
-<!-- Tech Stack Badges from Shields.io -->
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-<br/><br/>
-
-### 📊 GitHub Analytics
-
-<!-- Dynamic GitHub Stats widget (Automatically updates based on your repos) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debojeetmitra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debojeetmitra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff" height="190" alt="Top Languages" />
-</p>
-
-<!-- GitHub Streak Chart -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debojeetmitra&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=ffffff" alt="GitHub Streak" />
-</p>
 
 <br/>
 
-### 🌌 Check Out My Latest Project
-[![Cosmic Companion](https://github-readme-stats.vercel.app/api/pin/?username=debojeetmitra&repo=cosmic_companion&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff)](https://github.com/debojeetmitra/cosmic_companion)
+<p align="center">
+  <i>Crafting Pixel-Perfect, High-Performance Web Experiences from Kanpur, India</i> 🚀
+</p>
+
+<p align="center" style="margin-top:20px;">
+  <a href="https://debojeet-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252A34?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### � 🧰 The Tech Arsenal
+
+<!-- PREMIUM GLASSMORPHIC SKILL ICONS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,express,mongodb,git,github,figma,framer&perline=6" />
+</p>
+
+---
+
+### 📊 📈 GitHub Metrics
+
+<!-- NEON DARK THEME STATS ('Tokyonight') -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debojeetmitra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=A9B1D6&rank_icon=github" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debojeetmitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=A9B1D6" height="195" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debojeetmitra&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=A9B1D6" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌌 🚀 Featured Spotlight: Cosmic Companion
+
+[![Cosmic Companion](https://github-readme-stats.vercel.app/api/pin/?username=debojeetmitra&repo=cosmic_companion&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=A9B1D6)](https://github.com/debojeetmitra/cosmic_companion)
 
 </div>
