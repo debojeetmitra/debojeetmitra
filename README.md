@@ -1,33 +1,31 @@
 <div align="center">
 
-<!-- SICK ANIMATED BACKDROP HEADER GIF -->
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Header" />
+<!-- ULTRA CLEAN DYNAMIC BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Debojeet%20Mitra&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=25" width="100%" alt="Header" />
 
 <br/><br/>
 
-<!-- SCI-FI ANIMATED TYPING SVG -->
-<a href="https://github.com/debojeetmitra">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Debojeet+Mitra+👋;Frontend+Engineer+🛸;MERN+Stack+Sorcerer+�;Building+the+Future+of+Web+UI+✨" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <p align="center">
-  <i>Crafting Pixel-Perfect, High-Performance Web Experiences from Kanpur, India</i> 🚀
+  <i>✨ Crafting Pixel-Perfect, High-Performance Web Experiences from Kanpur, India ✨</i>
 </p>
 
 <p align="center" style="margin-top:20px;">
   <a href="https://debojeet-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252A34?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23252A34.svg?style=for-the-badge&logo=vercel&logoColor=%2300F0FF" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:debojeetmitra@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+<br/>
+
 ---
 
-### � 🧰 The Tech Arsenal
+### 💻 🧰 The Tech Arsenal
 
 <!-- PREMIUM GLASSMORPHIC SKILL ICONS -->
 <p align="center">
@@ -36,9 +34,9 @@
 
 ---
 
-### 📊 📈 GitHub Metrics
+### 📊 📈 Core Developer Metrics
 
-<!-- NEON DARK THEME STATS ('Tokyonight') -->
+<!-- CLEAN DARK NEON THEME STATS ('tokyonight') -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debojeetmitra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=A9B1D6&rank_icon=github" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debojeetmitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=A9B1D6" height="195" alt="Top Languages" />
@@ -50,7 +48,7 @@
 
 ---
 
-### 🌌 🚀 Featured Spotlight: Cosmic Companion
+### 🚀 Featured Spotlight: Cosmic Companion
 
 [![Cosmic Companion](https://github-readme-stats.vercel.app/api/pin/?username=debojeetmitra&repo=cosmic_companion&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=A9B1D6)](https://github.com/debojeetmitra/cosmic_companion)
 
