@@ -65,3 +65,19 @@
 [![Cosmic Companion](https://github-readme-stats.vercel.app/api/pin/?username=debojeetmitra&repo=cosmic_companion&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=A9B1D6)](https://github.com/debojeetmitra/cosmic_companion)
 
 </div>
+
+---
+
+### 🌍 Open Source Contributions
+
+🐞 **debojeetmitra/public-apis**  
+Validator crash issue (UnboundLocalError in category handling logic)  
+👉 https://github.com/debojeetmitra/public-apis/pull/1  
+
+💻 **freeCodeCamp/freeCodeCamp**  
+HTML structure issues in Camperbot challenge (UI inconsistency fix)  
+👉 https://github.com/debojeetmitra/freeCodeCamp/pull/1  
+
+📄 **app-ideas**  
+Broken resource link in Pomodoro Clock documentation  
+👉 https://github.com/debojeetmitra/app-ideas/pull/1  
