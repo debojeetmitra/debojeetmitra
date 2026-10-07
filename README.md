@@ -2,10 +2,9 @@
 
 # 👋 Hi, I'm Debojeet Mitra
 
-### Backend Engineer • AI & Agentic AI • Cloud Enthusiast
+### Backend Engineer • Full Stack Development • AI & Agentic AI
 
-Building scalable backend systems and AI-powered applications while exploring
-cloud-native technologies and modern software engineering.
+Building scalable web applications, backend systems, and AI-powered solutions while exploring cloud-native technologies and modern software engineering.
 
 <br/>
 
@@ -28,12 +27,12 @@ cloud-native technologies and modern software engineering.
 
 ## 🧑‍💻 About Me
 
-🎓 **B.Tech in Computer Science (AI & ML)**  
-💼 **Backend Engineering Intern @ FlyRank AI**  
-🤖 Exploring **AI Agents, Agentic AI & AI-powered applications**  
-☁️ Building hands-on experience with **Google Cloud & Cloud-native technologies**  
-🧠 **300+ DSA problems** solved on LeetCode  
-🌱 Currently focused on **Backend Engineering • AI • Cloud**
+🎓 **B.Tech in Computer Science (AI & ML)**
+💼 **Full Stack Engineer Intern @ NovaTech Ventures**
+🤖 Building and exploring **AI-powered applications & Agentic AI**
+☁️ Developing hands-on experience with **Google Cloud & Cloud-native technologies**
+🧠 **300+ DSA problems** solved on LeetCode
+🌱 Currently focused on **Backend Engineering • Full Stack Development • AI • Cloud**
 
 ---
 
@@ -55,7 +54,7 @@ cloud-native technologies and modern software engineering.
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&perline=8" />
 
 <br/>
 
@@ -75,16 +74,16 @@ cloud-native technologies and modern software engineering.
 
 ## 💼 Experience
 
-### 🏢 Backend Engineering Intern — FlyRank AI
+### 🏢 Full Stack Engineer Intern — NovaTech Ventures
 
-**July 2026 – Present**
+**September 2026 – Present**
 
-> Backend AI Engineering Cohort
-
-- 🔧 Building backend features and REST APIs.
-- 🤝 Working with Git, GitHub workflows and code reviews.
-- 🏗️ Learning scalable backend architecture and development practices.
-- 🤖 Working with AI-assisted software development workflows.
+* 🚀 Building and improving full-stack web applications and product features.
+* 💻 Working across frontend, backend, and application infrastructure.
+* 🔥 Working with technologies including **React, Next.js, Node.js, Firebase, GitHub, and Vercel**.
+* 🧩 Contributing to application architecture, feature development, debugging, and QA.
+* 🤝 Collaborating in a remote development environment through Git and GitHub workflows.
+* 🏗️ Gaining hands-on experience in building and shipping production-oriented software.
 
 ---
 
@@ -103,11 +102,11 @@ AI-powered interview platform with real-time video interviews and AI-generated q
 
 **Highlights**
 
-- 🧠 50+ dynamic interview questions per session
-- ⚡ Real-time video communication
-- 🤖 Llama via Groq
-- 🔐 Clerk authentication
-- 🏗️ Scalable backend architecture
+* 🧠 50+ dynamic interview questions per session
+* ⚡ Real-time video communication
+* 🤖 Llama via Groq
+* 🔐 Clerk authentication
+* 🏗️ Scalable backend architecture
 
 </td>
 
@@ -121,11 +120,11 @@ Real-time chat application designed for low-latency communication.
 
 **Highlights**
 
-- ⚡ WebSocket-based messaging
-- 🔐 JWT authentication
-- 👥 Group chat functionality
-- 🐳 Docker & Docker Compose
-- ⚙️ GitHub Actions CI
+* ⚡ WebSocket-based messaging
+* 🔐 JWT authentication
+* 👥 Group chat functionality
+* 🐳 Docker & Docker Compose
+* ⚙️ GitHub Actions CI
 
 </td>
 
@@ -143,10 +142,10 @@ AI-powered application exploring modern AI development and intelligent user inte
 
 **Highlights**
 
-- 🤖 AI-powered features
-- 🧩 Full-stack architecture
-- 🚀 Modern web technologies
-- 💡 AI application development
+* 🤖 AI-powered features
+* 🧩 Full-stack architecture
+* 🚀 Modern web technologies
+* 💡 AI application development
 
 </td>
 
@@ -160,10 +159,10 @@ Contributing to open-source projects through issues and pull requests.
 
 **Contributions**
 
-- 🐞 Bug fixes
-- 📚 Documentation improvements
-- 🔧 Resource corrections
-- 🤝 Community collaboration
+* 🐞 Bug fixes
+* 📚 Documentation improvements
+* 🔧 Resource corrections
+* 🤝 Community collaboration
 
 </td>
 
@@ -176,13 +175,13 @@ Contributing to open-source projects through issues and pull requests.
 
 <div align="center">
 
-| 🤖 AI & Agents | ☁️ Cloud | ⚙️ DevOps |
-|:---:|:---:|:---:|
-| Google Gemini | Google Cloud | Docker |
-| Google ADK | Cloud Run | GitHub Actions |
-| AI Agents | Cloud Storage | CI/CD |
-| Multi-Agent Workflows | Cloud Functions | Linux |
-| Groq | IAM | Git |
+|     🤖 AI & Agents    |     ☁️ Cloud    |    ⚙️ DevOps   |
+| :-------------------: | :-------------: | :------------: |
+|     Google Gemini     |   Google Cloud  |     Docker     |
+|       Google ADK      |    Cloud Run    | GitHub Actions |
+|       AI Agents       |  Cloud Storage  |      CI/CD     |
+| Multi-Agent Workflows | Cloud Functions |      Linux     |
+|          Groq         |       IAM       |       Git      |
 
 </div>
 
@@ -202,16 +201,16 @@ Contributing to open-source projects through issues and pull requests.
 
 <br/>
 
-| Credential | Issuer |
-|---|---|
-| **Engineer AI Agents with Agent Development Kit (ADK)** | Google Cloud Skills Boost |
-| **Create Your First Gemini Enterprise Application** | Google Cloud Skills Boost |
-| **Store, Process, and Manage Data on Google Cloud** | Google Cloud Skills Boost |
-| **Configure Service Accounts and IAM Roles for Google Cloud** | Google Cloud Skills Boost |
-| **Introduction to Cloud Infrastructure: Describe Cloud Concepts** | Microsoft |
-| **Claude Code 101** | Anthropic |
-| **AI Fluency: Framework & Foundations** | Anthropic |
-| **LFC102: Inclusive Open Source Community Orientation** | Linux Foundation |
+| Credential                                                        | Issuer                    |
+| ----------------------------------------------------------------- | ------------------------- |
+| **Engineer AI Agents with Agent Development Kit (ADK)**           | Google Cloud Skills Boost |
+| **Create Your First Gemini Enterprise Application**               | Google Cloud Skills Boost |
+| **Store, Process, and Manage Data on Google Cloud**               | Google Cloud Skills Boost |
+| **Configure Service Accounts and IAM Roles for Google Cloud**     | Google Cloud Skills Boost |
+| **Introduction to Cloud Infrastructure: Describe Cloud Concepts** | Microsoft                 |
+| **Claude Code 101**                                               | Anthropic                 |
+| **AI Fluency: Framework & Foundations**                           | Anthropic                 |
+| **LFC102: Inclusive Open Source Community Orientation**           | Linux Foundation          |
 
 ---
 
@@ -241,17 +240,16 @@ Focused on strengthening:
 
 ### Contributions
 
-- 🐞 **[public-apis](https://github.com/debojeetmitra/public-apis/pull/1)**  
+* 🐞 **[public-apis](https://github.com/debojeetmitra/public-apis/pull/1)**
   Fixed a validator crash caused by `UnboundLocalError` in category handling logic.
 
-- 💻 **[freeCodeCamp](https://github.com/debojeetmitra/freeCodeCamp/pull/1)**  
+* 💻 **[freeCodeCamp](https://github.com/debojeetmitra/freeCodeCamp/pull/1)**
   Fixed HTML structure issues and improved UI consistency in the Camperbot challenge.
 
-- 📄 **[app-ideas](https://github.com/debojeetmitra/app-ideas/pull/1)**  
+* 📄 **[app-ideas](https://github.com/debojeetmitra/app-ideas/pull/1)**
   Corrected a broken resource link in the Pomodoro Clock documentation.
 
-> Open source contributions have strengthened my ability to understand existing
-> codebases, identify issues, and collaborate through GitHub workflows.
+> Open source contributions have strengthened my ability to understand existing codebases, identify issues, and collaborate through GitHub workflows.
 
 ---
 
@@ -259,13 +257,16 @@ Focused on strengthening:
 
 <div align="center">
 
-### Backend Engineering
+### Backend & Full Stack
+
 `Node.js` • `Express.js` • `REST APIs` • `WebSockets` • `System Design`
 
 ### Artificial Intelligence
+
 `AI Agents` • `Agentic AI` • `Google ADK` • `LLM Applications`
 
 ### Cloud & DevOps
+
 `Google Cloud` • `Cloud Run` • `Docker` • `CI/CD` • `IAM`
 
 </div>
@@ -276,10 +277,10 @@ Focused on strengthening:
 
 <div align="center">
 
-💻 **Backend Engineering**  
-🤖 **AI & Agentic AI**  
-☁️ **Cloud & Cloud-Native Systems**  
-🌍 **Open Source**  
+💻 **Backend & Full Stack Engineering**
+🤖 **AI & Agentic AI**
+☁️ **Cloud & Cloud-Native Systems**
+🌍 **Open Source**
 🏗️ **Scalable Software Architecture**
 
 </div>
